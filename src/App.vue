@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
+    <router-view></router-view>
     <MainTabBar></MainTabBar>
   </div>
 </template>
@@ -17,5 +17,5 @@
 </script>
 
 <style>
-  @import "assets/css/base.css";
+  @import "./assets/css/base.css";
 </style>
